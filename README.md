@@ -1,5 +1,5 @@
 # Algorithms
-The repo includes handcraft Implements of some algorithms learned in master course "Advanced Algorithm" &amp;"Advanced Articficial Intelligence" \n 
+The repo includes handcraft Implements of some algorithms learned in master course "Advanced Algorithm" &amp;"Advanced Articficial Intelligence" 
 
 ### Advanced Algorithm
 
@@ -12,7 +12,7 @@ The repo includes handcraft Implements of some algorithms learned in master cour
 
 ### Advanced Artificial Intelligence
 
-- Decision tree\n
+- Decision tree  
   To decide the best t of continous attribute
   - entropy
   - conditional entropy
