@@ -4,10 +4,17 @@ The repo includes handcraft Implements of some algorithms learned in master cour
 ### Advanced Algorithm
 
 - load balance
+   - greedy 
+   - sorted greedy
 - center select
 - k-means
 - Fuzzy c-means
 
 ### Advanced Artificial Intelligence
 
-- The best t of continous attribute (Decision tree)
+- Decision tree\n
+  To decide the best t of continous attribute
+  - entropy
+  - conditional entropy
+  - information gain
+
