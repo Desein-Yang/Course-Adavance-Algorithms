@@ -1,5 +1,5 @@
 # Algorithms
-The repo includes handcraft Implements of some algorithms learned in master course "Advanced Algorithm" &amp;"Advanced Articficial Intelligence" 
+The repo implements some classic algorithms  in master course "Advanced Algorithm" &amp;"Advanced Articficial Intelligence".
 
 ### Advanced Algorithm
 
